@@ -10,9 +10,9 @@ const KTMVirtual = () => {
   const [isCardFlipped, setIsCardFlipped] = useState(false);
 
   const studentData = {
-    nama: 'NAUFAL MAULANA DARMAWAN',
+    nama: 'NAUFAL MUHAMMAD DZAKA PODI',
     nim: '20210001',
-    prodi: 'TEKNIK INFORMATIKA',
+    prodi: 'D4 JARINGAN TELEKOMUNIKASI DIGITAL',
     fakultas: 'FAKULTAS TEKNIK',
     angkatan: '2021',
     status: 'AKTIF',
