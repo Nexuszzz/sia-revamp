@@ -12,9 +12,9 @@ const SKPI = () => {
   const [selectedSection, setSelectedSection] = useState('overview');
 
   const studentData = {
-    nama: 'Naufal Maulana Darmawan',
+    nama: 'Naufal Muhammad Dzaka\'',
     nim: '20210001',
-    prodi: 'Teknik Informatika',
+    prodi: 'D4 Jaringan Telekomunikasi Digital',
     angkatan: '2021',
     ipk: 3.78,
     status: 'Aktif'
