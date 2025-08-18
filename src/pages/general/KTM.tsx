@@ -12,7 +12,7 @@ const KTM = () => {
   const ktmData = {
     nim: '244101060016',
     nama: 'NAUFAL M.D',
-    prodi: 'D4 Teknik Informatika',
+    prodi: 'D4 Jaringan Telekomunikasi Digital',
     angkatan: '2022',
     status: 'Aktif',
     berlakuHingga: '2026-08-31',
