@@ -16,7 +16,7 @@ const Biodata = () => {
     nim: '244101060016',
     nama: 'NAUFAL M.D',
     email: 'naufal.md@polinema.ac.id',
-    prodi: 'D4 Teknik Informatika',
+    prodi: 'D4 Jaringan Telekomunikasi Digital',
     angkatan: '2022',
     status: 'Aktif',
     alamat: 'Jl. Soekarno Hatta No. 9, Malang',
