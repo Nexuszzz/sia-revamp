@@ -33,7 +33,6 @@ import Prestasi from "./pages/akademik/Prestasi";
 // UKT pages
 import PembayaranUKT from "./pages/ukt/PembayaranUKT";
 import KeringanUKT from "./pages/ukt/KeringanUKT";
-import BantuanCovid from "./pages/ukt/BantuanCovid";
 
 // Surat & Kuesioner pages
 import PermintaanSurat from "./pages/surat-kuesioner/PermintaanSurat";
@@ -84,7 +83,6 @@ const App = () => (
             {/* UKT Routes */}
             <Route path="/ukt/pembayaran" element={<PembayaranUKT />} />
             <Route path="/ukt/keringanan" element={<KeringanUKT />} />
-            <Route path="/ukt/bantuan-covid19" element={<BantuanCovid />} />
 
             {/* Surat & Kuesioner Routes */}
             <Route path="/surat-kuesioner/permintaan" element={<PermintaanSurat />} />

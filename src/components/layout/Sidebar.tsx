@@ -88,7 +88,6 @@ const menuItems: MenuItem[] = [
     children: [
       { label: 'Pembayaran', href: '/ukt/pembayaran', icon: DollarSign },
       { label: 'Keringanan', href: '/ukt/keringanan', icon: FileText },
-      { label: 'Bantuan COVID-19', href: '/ukt/bantuan-covid19', icon: Heart },
     ],
   },
   {
